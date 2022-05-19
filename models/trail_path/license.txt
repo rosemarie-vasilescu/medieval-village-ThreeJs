@@ -1,0 +1,11 @@
+Model Information:
+* title:	Trail Path
+* source:	https://sketchfab.com/3d-models/trail-path-13344bee4dd74603b4bc9b496418ab1e
+* author:	jwebbatx (https://sketchfab.com/jwebbatx)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Trail Path" (https://sketchfab.com/3d-models/trail-path-13344bee4dd74603b4bc9b496418ab1e) by jwebbatx (https://sketchfab.com/jwebbatx) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

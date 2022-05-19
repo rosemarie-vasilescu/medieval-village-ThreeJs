@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lake Scene
+* source:	https://sketchfab.com/3d-models/lake-scene-4e0d1490192d4d488f1041ff4ff9acf2
+* author:	oktokoa13 (https://sketchfab.com/oktokoa13)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lake Scene" (https://sketchfab.com/3d-models/lake-scene-4e0d1490192d4d488f1041ff4ff9acf2) by oktokoa13 (https://sketchfab.com/oktokoa13) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

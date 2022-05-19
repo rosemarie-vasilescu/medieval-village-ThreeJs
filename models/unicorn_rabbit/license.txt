@@ -1,0 +1,11 @@
+Model Information:
+* title:	Unicorn Rabbit
+* source:	https://sketchfab.com/3d-models/unicorn-rabbit-610f4f67f43840ab8daeb03ebaa13fc5
+* author:	Lena (https://sketchfab.com/Milliways)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Unicorn Rabbit" (https://sketchfab.com/3d-models/unicorn-rabbit-610f4f67f43840ab8daeb03ebaa13fc5) by Lena (https://sketchfab.com/Milliways) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
